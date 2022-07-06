@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "ng-auth-4319f": {
+      "hosting": {
+        "angular-fb-9": [
+          "ng-auth-4319f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "ng-auth-4319f"
+  }
+}

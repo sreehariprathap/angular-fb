@@ -3,7 +3,25 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  firebase: {
+    projectId: 'ng-auth-4319f',
+    appId: '1:947478803250:web:76fe6dc3a8fd3365b75d2b',
+    storageBucket: 'ng-auth-4319f.appspot.com',
+    apiKey: 'AIzaSyDi7eukk6O5UqgffYCfB9oWN8PB1zRgbbQ',
+    authDomain: 'ng-auth-4319f.firebaseapp.com',
+    messagingSenderId: '947478803250',
+    measurementId: 'G-XSW3M2X9QQ',
+  },
+  production: false,
+  firebaseConfig: {
+    apiKey: 'AIzaSyDi7eukk6O5UqgffYCfB9oWN8PB1zRgbbQ',
+    authDomain: 'ng-auth-4319f.firebaseapp.com',
+    projectId: 'ng-auth-4319f',
+    storageBucket: 'ng-auth-4319f.appspot.com',
+    messagingSenderId: '947478803250',
+    appId: '1:947478803250:web:76fe6dc3a8fd3365b75d2b',
+    measurementId: 'G-XSW3M2X9QQ',
+  },
 };
 
 /*
